@@ -1,10 +1,28 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "Javascripttumblr",
+    "repositoryName": "hubpress",
+    "branch": "master",
+    "cname": "solopirate.com/blog"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "http://solopirate.com/blog",
+    "hubpress": "https://hubpressblog.netlify.com",
+    "theme": "//solopirate.com/blog/themes/casper",
+    "images": "http://solopirate.com/blog/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_Ctor": {}
   }
 }
